@@ -1,0 +1,38 @@
+header{
+	background-color: #0288D1;
+	color: #B3E5FC;
+	height: 100px;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+	margin-top: 0px;
+	padding: 30px;
+}
+
+.lala {
+	background-color: #448AFF;
+	color: #B3E5FC;
+	height: 600px;
+	font-family: 'Indie Flower', cursive;
+}
+
+.formulario {
+	margin-top: 200px;
+}
+
+#tareaInput {
+	width: 700px;
+	height: 36px;
+	border-radius: 8px;
+}
+
+.lolo {
+	margin-top: 60px;
+}
+
+.lista ul {
+	color: white;
+}
+
